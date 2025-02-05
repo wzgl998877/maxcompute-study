@@ -1,0 +1,1 @@
+[INFO] Installing D:\javaxuexi\maxcompute-study\pom.xml to D:\tool\repository\com\zt\study\maxcompute-study\0.0.1-SNAPSHOT\maxcompute-study-0.0.1-SNAPSHOT.pom
