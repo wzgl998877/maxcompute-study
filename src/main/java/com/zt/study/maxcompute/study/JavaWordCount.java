@@ -27,6 +27,9 @@ import java.util.Arrays;
 import java.util.List;
 import java.util.regex.Pattern;
 
+/**
+ * @author zhengtao
+ */
 public final class JavaWordCount {
   private static final Pattern SPACE = Pattern.compile(" ");
 
